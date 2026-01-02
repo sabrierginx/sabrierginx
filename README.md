@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sabri Ergin
 
-<!--
-**sabrierginx/sabrierginx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineer  
+🤖 AI & Deep Learning  
+📱 Mobile App Development (Flutter)  
 
-Here are some ideas to get you started:
+## 🔧 Technologies
+- Python, Java, C
+- TensorFlow, Keras, PyTorch
+- Flutter, Dart
+- PostgreSQL, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🧠 Stress Detection from Facial Images (Deep Learning)
+- 🏋️ Personal Training & Nutrition Assistant
+- 🔬 Bioinformatics Sequence Analysis (Biopython)
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/hüseyin-sabri-ergin-1a4086332
+- Email: h.sabri_35@hotmail.com
